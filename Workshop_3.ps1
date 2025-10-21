@@ -193,7 +193,7 @@ $reportExecutive = @"
 EXECUTIVE SUMMARY
 ==================================================================
 
-⚠ Konton som löper ut inom 30 dagar: $($snartUtdaterade.Count)
+⚠ Konton som löper ut inom 30 dagar: $($snartUtdateradeKonton.Count)
 ⚠ Datorer som inte setts på 30+ dagar: $($gamlaDatorer.Count)
 ⚠ Användare med lösenord äldre än 90 dagar: $($gamlaLosen.Count)
 `n
