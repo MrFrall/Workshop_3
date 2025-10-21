@@ -47,33 +47,33 @@ Säkerhetskopia            2
 
 Användare       Dagar sedan lösenordsbyte
 ------------------------------------------------------------------
-Anna Andersson            50        
+Anna Andersson            51        
 Björn Björnsson           68        
 Cecilia Carlsson          20        
 David Davidsson           93        
 Erik Eriksson             37        
-Fredrik Fredriksson       142       
+Fredrik Fredriksson       143       
 Gunnar Gunnarsson         12        
 Helena Helenasson         31        
-Ingrid Ingridsson         16        
+Ingrid Ingridsson         17        
 Johan Johansson           160       
 Karl Karlsson             26        
 Lars Larsson              10        
-Maria Mariasson           112       
+Maria Mariasson           113       
 Nils Nilsson              194       
 Olof Olofsson             21        
-Peter Petersson           62        
+Peter Petersson           63        
 Quentin Quentinsson       155       
 Robert Robertsson         128       
 Sara Sarasson             41        
 Tomas Tomasson            89        
-Ulrika Ulrikasson         13        
+Ulrika Ulrikasson         14        
 Viktor Viktorsson         53        
 Wilma Wilmasson           46        
-Xavier Xaviersson         10        
+Xavier Xaviersson         11        
 Ynva Ynvasson             123       
 Zara Zarasson             20        
-Erik Olsson               203       
+Erik Olsson               204       
 Maria Berg                164       
 Johan Svensson            150       
 
@@ -81,7 +81,7 @@ Datorer med längst tid sedan senaste incheckning
 Datornamn                 Dagar sedan incheckning
 ------------------------------------------------------------
 PC-LAG-003                73                  
-LAPTOP-HK-002             52                  
+LAPTOP-HK-002             53                  
 PC-MAL-003                46                  
 TEST-VM-001               31                  
 PC-HK-005                 9                   

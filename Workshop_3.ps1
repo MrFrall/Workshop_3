@@ -142,7 +142,7 @@ foreach ($computer in $gamlaInlogg) {
 $snartUtdateradeKonton = @()
 
 foreach ($user in $data.users) {
-    if ($user.enabled -eq $true -and $user.accountExpires -ne $null) {
+    if ($user.enabled -eq $true -and $null -ne $user.accountExpires) {
         try {
             if ([datetime]$user.accountExpires -lt (Get-Date).AddDays(30)) {
                 $snartUtdateradeKonton += $user
