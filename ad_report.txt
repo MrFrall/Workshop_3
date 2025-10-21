@@ -1,4 +1,3 @@
-
 ACTIVE DIRECTORY AUDIT
 
 ==================================================================
@@ -6,18 +5,24 @@ ACTIVE DIRECTORY AUDIT
 Domännamn: techcorp.local
 Exportdatum: 10/14/2025 06:00:00
 
-Total Users: 31
-Inactive Users 5
+Total mängd användare: 31
+Inaktiva användare: 5
+
+EXECUTIVE SUMMARY
+==================================================================
+
+⚠ Konton som löper ut inom 30 dagar: 2
+⚠ Datorer som inte setts på 30+ dagar: 4
+⚠ Användare med lösenord äldre än 90 dagar: 11
 
 Lista över inaktiva användare >30 dagar:
 ------------------------------------------------------------------
-Kontonamn       Namn                      Senast inloggad
-    
-nnils           Nils Nilsson              2025-08-15 09:00:00
-qquentin        Quentin Quentinsson       2025-09-01 10:00:00
-eolsson         Erik Olsson               2025-08-15 09:00:00
-mberg           Maria Berg                2025-08-20 14:30:00
-jsvensson       Johan Svensson            2025-08-25 08:15:00
+Kontonamn       Namn                      Senast inloggad      Inaktiva dagar
+nnils           Nils Nilsson              2025-08-15 09:00:00  67        
+qquentin        Quentin Quentinsson       2025-09-01 10:00:00  50        
+eolsson         Erik Olsson               2025-08-15 09:00:00  67        
+mberg           Maria Berg                2025-08-20 14:30:00  62        
+jsvensson       Johan Svensson            2025-08-25 08:15:00  57        
 
 Användare per avdelning:
 ------------------------------------------------------------------
@@ -43,39 +48,39 @@ Säkerhetskopia            2
 Användare       Dagar sedan lösenordsbyte
 ------------------------------------------------------------------
 Anna Andersson            50        
-Björn Björnsson           67        
+Björn Björnsson           68        
 Cecilia Carlsson          20        
 David Davidsson           93        
-Erik Eriksson             36        
+Erik Eriksson             37        
 Fredrik Fredriksson       142       
-Gunnar Gunnarsson         11        
+Gunnar Gunnarsson         12        
 Helena Helenasson         31        
 Ingrid Ingridsson         16        
-Johan Johansson           159       
+Johan Johansson           160       
 Karl Karlsson             26        
-Lars Larsson              9         
+Lars Larsson              10        
 Maria Mariasson           112       
 Nils Nilsson              194       
-Olof Olofsson             20        
+Olof Olofsson             21        
 Peter Petersson           62        
-Quentin Quentinsson       154       
+Quentin Quentinsson       155       
 Robert Robertsson         128       
 Sara Sarasson             41        
-Tomas Tomasson            88        
+Tomas Tomasson            89        
 Ulrika Ulrikasson         13        
-Viktor Viktorsson         52        
+Viktor Viktorsson         53        
 Wilma Wilmasson           46        
 Xavier Xaviersson         10        
 Ynva Ynvasson             123       
-Zara Zarasson             19        
+Zara Zarasson             20        
 Erik Olsson               203       
 Maria Berg                164       
-Johan Svensson            149       
+Johan Svensson            150       
 
 Datorer med längst tid sedan senaste incheckning
 Datornamn                 Dagar sedan incheckning
 ------------------------------------------------------------
-PC-LAG-003                72                  
+PC-LAG-003                73                  
 LAPTOP-HK-002             52                  
 PC-MAL-003                46                  
 TEST-VM-001               31                  
